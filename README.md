@@ -19,8 +19,8 @@ Security Encryption Tool is used to generate encryption key file, encrypt plain 
 
 **HOW TO USE IT:**
 
-1. Clone or Download all files in a directory. To clone please copy the below line and paste in a Linux terminal.
+1. Clone or Download all files in a directory from below link:
 
-   ```$ git clone https://github.com/Khondakar/Linux-Security-Log-Management-System.git```
+   ```https://github.com/Khondakar/Security-Encryption-Tool.git```
    
 2. Run 'newMainMenu.py' and follow the menu option.
