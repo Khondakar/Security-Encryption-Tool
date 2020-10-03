@@ -7,7 +7,7 @@ import sys
 import glob
 from tkinter import filedialog
 
-# Global variables define as  dictionary to pair up key and value use for encryption
+# Define variable as dictionary to pair up key and value use for encryption
 encrypt_key_value_dict = {}
 
 
