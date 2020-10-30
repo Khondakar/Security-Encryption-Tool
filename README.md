@@ -1,5 +1,5 @@
 
-## ABOUT: Security Encryption Tool
+## Security Encryption Tool
 
         
 **SOURCE INFO:**
@@ -37,7 +37,7 @@ SOFTWARE.
 **WHAT THIS ABOUT:**
 
 
-Security Encryption Tool is used to generate encryption key file, encrypt plain text file using key and decrypt the file using the same key file.
+Security Encryption Tool is used to generate encryption key file, encrypt the plain text file using encryption key and decrypt the file using the same key file.
 
 
 **HOW TO USE IT:**
